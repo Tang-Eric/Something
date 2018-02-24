@@ -1,3 +1,0 @@
-#Text
-
-print("Hello World");
